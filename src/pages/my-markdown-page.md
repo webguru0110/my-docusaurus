@@ -1,3 +1,8 @@
-# My Markdown page
+---
+sidebar_label: 'Hi!'
+sidebar_position: 3
+---
 
-This is a Markdown page
+# Hello
+
+This is my **first Docusaurus document**!
